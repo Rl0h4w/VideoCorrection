@@ -8,7 +8,7 @@
 ```bash
 pip install tensorflow optuna numpy
 ```
-
+Датасет - [REDS](https://seungjunnah.github.io/Datasets/reds.html)
 ### Модели
 
 #### Модель удаления шума
